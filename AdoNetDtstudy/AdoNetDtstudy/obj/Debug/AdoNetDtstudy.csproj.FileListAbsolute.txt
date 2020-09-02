@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\bin\Debug\AdoNetDtstudy.exe.config
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\bin\Debug\AdoNetDtstudy.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\bin\Debug\AdoNetDtstudy.pdb
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\obj\Debug\AdoNetDtstudy.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\obj\Debug\AdoNetDtstudy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\obj\Debug\AdoNetDtstudy.exe
+C:\Users\user\source\repos\tangxxbo\AdoNetDtstudy\AdoNetDtstudy\AdoNetDtstudy\obj\Debug\AdoNetDtstudy.pdb
